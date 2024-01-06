@@ -24,3 +24,6 @@ We'll compare these two types of posts to determine the following:
 
 - Do Ask HN or Show HN receive more comments on average?
 - Do posts created at a certain time receive more comments on average?
+- Do Ask HN or Show HN posts received more points on average?
+- Do posts created at a certain time are more likely to receive more points?
+- Compare the results to the average number of comments and points other posts receive
